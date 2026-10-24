@@ -26,6 +26,16 @@
             //Struct doesnt support inheritance
 
             //limited stack space while using struct
+
+
+
+            //Q2
+            //a) Shipment is the parent class
+            //b) ExpressShipment is the child class 
+            //c) ExpressShipment inherits TrackingCode property
+            //d) Less code to maintain - using less memory - repeating code is not good in programming
+
+            //====================================================================
         }
     }
 }
