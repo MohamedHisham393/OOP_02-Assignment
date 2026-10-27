@@ -17,6 +17,7 @@ namespace OOP_02___Solve
             this.BuildingNumber = BuildingNumber;
         }
 
+
         public string GetFullAddress()
         {
             return $"{BuildingNumber} - {Street} Street - {City}";
